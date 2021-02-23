@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+[Post Recipies](Post-Recipies.html)
+
+[Sign Up for Account](Sign-Up-for-Account.html)
+
+[Search Recipies](Search-Recipies.html)
+
+[Save Recipies](Save-Recipies.html)
+
+[Ask for Help](Ask-for-Help.html)
+
+[Interact with Frients](Interact-with-Friends.html)
+
 You can use the [editor on GitHub](https://github.com/Joshuarod890/personal-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
