@@ -1,20 +1,32 @@
 ## Welcome to GitHub Pages
 
-[Post Recipies](Post-Recipies.html)
-
 [Sign Up for Account](Sign-Up-for-Account.html)
 
 [Login to Account](Login-to-Account.html)
 
 [Log Out of Account](Log-Out-of-Account.html)
 
-[Search Recipies](Search-Recipies.html)
+[Delete Account](Delete-Account.html)
 
-[Save Recipies](Save-Recipies.html)
+[Search Recipe](Search-Recipe.html)
+
+[Sort Recipe](Sort-Recipes.html)
+
+[Save Recipe](Save-Recipes.html)
+
+[Download Recipes](Download-Recipe.html)
+
+[Delete Recipe](Delete-Saved-Recipes.html)
 
 [Ask for Help](Ask-for-Help.html)
 
 [Interact with Frients](Interact-with-Friends.html)
+
+[Follow Friend](Follow-Friend.html)
+
+[Unfollow Friend](Unfollow-Friend.html)
+
+[Post Recipies](Post-Recipies.html)
 
 You can use the [editor on GitHub](https://github.com/Joshuarod890/personal-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
