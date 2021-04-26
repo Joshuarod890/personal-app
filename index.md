@@ -12,7 +12,7 @@
 
 [Sort Recipe](Sort-Recipes.html)
 
-[Save Recipe](Save-Recipes.html)
+[Saved Recipes](Saved-Recipes.html)
 
 [Download Recipes](Download-Recipe.html)
 

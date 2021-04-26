@@ -6,33 +6,33 @@
     <body>   
         <h1>Sort Recipes</h1>
                 <input type = "radio" name = "Sort">
-                <label>Price - High to Low</label><br>
+                <label>Review - High to Low</label><br>
                 <input type = "radio" name = "Sort">
-                <label>Price - Low to High</label><br>
+                <label>Review - Low to High</label><br>
                 <input type = "radio" name = "Sort">
                 <label>Alphabetically - A to Z</label><br>
                 <input type = "radio" name = "Sort">
                 <label>Alphabetically - Z to A</label><br>
                 
-                <input type = "button" value = "Sort"><br><br>
+                <input type = "button" value = "Sort" onclick="location.href = 'Sort-Recipes.html'"><br><br>
 
         <table>
-            <tr>
-            <td><img src="Soup.jpg" style="width:200px"></td>
-            <td style="text-align:left;vertical-align:top">
-            20 Minute Chicken Noodle Soup<br>
-            Reviews: 4/5 Stars<br>
-            Description: Find comfort in a trusted pantry staple for weeknight dinner solutions.<br><br>
-            <input type="button" value="Save">
-            </td>
-            </tr>
             <tr>
             <td><img src="Breast.jpg" style="width:200px"></td>
             <td style="text-align:left;vertical-align:top">
             Simple Baked Chicken Breast<br>
             Reviews: 4.5/5 Stars<br>
             Description: A staple dinner dish.<br><br>
-            <input type="button" value="Save">
+            <input type="button" value="Save" onclick="location.href = 'Recipe-Saved.html'">
+            </td>
+            </tr>
+            <tr>
+            <td><img src="Soup.jpg" style="width:200px"></td>
+            <td style="text-align:left;vertical-align:top">
+            20 Minute Chicken Noodle Soup<br>
+            Reviews: 4/5 Stars<br>
+            Description: Find comfort in a trusted pantry staple for weeknight dinner solutions.<br><br>
+            <input type="button" value="Save" onclick="location.href = 'Recipe-Saved.html'">
             </td>
             </tr>
             <tr>
@@ -41,7 +41,7 @@
             Homemade Chicken Nuggets<br>
             Reviews: 3.5/5 Stars<br>
             Description: Boneless, skinless chicken chunks perfect for snacks or appetizers.<br><br>
-            <input type="button" value="Save">
+            <input type="button" value="Save" onclick="location.href = 'Recipe-Saved.html'">
             </td>
             </tr>
             </table>        
