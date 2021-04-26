@@ -4,6 +4,10 @@
 
 [Sign Up for Account](Sign-Up-for-Account.html)
 
+[Login to Account](Login-to-Account.html)
+
+[Log Out of Account](Log-Out-of-Account.html)
+
 [Search Recipies](Search-Recipies.html)
 
 [Save Recipies](Save-Recipies.html)
