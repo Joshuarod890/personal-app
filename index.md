@@ -26,7 +26,15 @@
 
 [Unfollow Friend](Unfollow-Friend.html)
 
+[Share Recipe](Search-Recipe.html)
+
+[Review Recipe](Review-Recipe.html)
+
 [Post Recipies](Post-Recipies.html)
+
+[Edit Draft](Edit-Draft.html)
+
+[Create Recipe]()
 
 You can use the [editor on GitHub](https://github.com/Joshuarod890/personal-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
