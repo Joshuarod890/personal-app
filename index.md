@@ -34,7 +34,7 @@
 
 [Edit Draft](Edit-Draft.html)
 
-[Create Recipe]()
+[Create Recipe](Create-Recipe.html)
 
 You can use the [editor on GitHub](https://github.com/Joshuarod890/personal-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
