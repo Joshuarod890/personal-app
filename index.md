@@ -26,7 +26,7 @@
 
 [Unfollow Friend](Unfollow-Friend.html)
 
-[Share Recipe](Search-Recipe.html)
+[Share Recipe](Share-Recipe.html)
 
 [Review Recipe](Review-Recipe.html)
 
